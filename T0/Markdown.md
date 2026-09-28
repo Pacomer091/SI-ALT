@@ -18,3 +18,17 @@
 
 Se escriben como texto normal
 
+## Negrita
+**texto**
+
+__texto__
+
+Recomiendo usar los asteriscos para negrita, ya que funciona en todos los sitios.
+
+## Cursiva
+*texto*
+
+_texto_
+
+De nuevo recomiendo usar los asteriscos.
+
